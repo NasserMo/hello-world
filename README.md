@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This is a test repository
+Hi I'm Abdul Mohamed and I just activated my github account.  
